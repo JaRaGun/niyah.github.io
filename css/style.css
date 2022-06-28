@@ -16,7 +16,7 @@ h2{
     font-family: 'Palanquin Dark', sans-serif;
 }
 #Home{
-    background: url(/img/catsAndDogs.webp) no-repeat center center fixed;
+    background: url(../img/catsAndDogs.webp) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -53,7 +53,7 @@ h2{
 }
 #fixed
 {
-    background: url(/img/dog-cat.webp) no-repeat center center fixed;
+    background: url(../img/dog-cat.webp) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
@@ -140,7 +140,7 @@ footer h3{
 }
 
 #About{
-    background: url(/img/image.webp) no-repeat center center fixed;
+    background: url(../img/image.webp) no-repeat center center fixed;
     display: table;
     height: 100%;
     position: relative;
@@ -150,7 +150,7 @@ footer h3{
 
 #fixed2
 {
-    background: url(/img/image2.webp) no-repeat center center fixed;
+    background: url(../img/image2.webp) no-repeat center center fixed;
     display: table;
     height: 60%;
     position: relative;
@@ -159,7 +159,7 @@ footer h3{
 }
 
 #Contact{
-    background: url(/img/image3.webp) no-repeat center center fixed;
+    background: url(../img/image3.webp) no-repeat center center fixed;
     display: table;
     height: 100%;
     width: 100%;
@@ -181,7 +181,7 @@ footer h3{
 } */ 
 #Login
 {
-    background: url(/img/image5.webp) no-repeat center center fixed;
+    background: url(../img/image5.webp) no-repeat center center fixed;
     display: table;
     height: 100%;
     width: 100%;
@@ -206,7 +206,7 @@ footer h3{
 }
 #Register
 {
-    background: url(/img/image6.jpg) no-repeat center center fixed;
+    background: url(../img/image6.jpg) no-repeat center center fixed;
     display: table;
     height: 100%;
     width: 100%;
